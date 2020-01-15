@@ -1,0 +1,317 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Index.htm" resolutions="1x" timestamp="1519015516800">
+  <folder name="css">
+    <file name="site_global.css" crc="3636130"/>
+    <file name="master_c-master.css" crc="528259333" ref="contact-us:our-facility---production:our-locations:r-d:corporate-profile"/>
+    <file name="master_a-master.css" crc="484063276" ref="index"/>
+    <file name="master_products-master.css" crc="35136182" ref="leds-and-drivers:mr16:5w-6vdc:5w-10-30vdc:7w-10-30vdc:pcba:7w-6vdc"/>
+    <file name="leds-and-drivers.css" crc="4173626308" ref="leds-and-drivers"/>
+    <file name="iefonts_leds-and-drivers.css" crc="4026193656" ref="leds-and-drivers"/>
+    <file name="mr16.css" crc="4239184339" ref="mr16"/>
+    <file name="iefonts_mr16.css" crc="195656257" ref="mr16"/>
+    <file name="contact-us.css" crc="3803663287" ref="contact-us"/>
+    <file name="iefonts_contact-us.css" crc="16775178" ref="contact-us"/>
+    <file name="5w-6vdc.css" crc="4228395434" ref="5w-6vdc"/>
+    <file name="iefonts_5w-6vdc.css" crc="442115718" ref="5w-6vdc"/>
+    <file name="5w-10-30vdc.css" crc="4055452097" ref="5w-10-30vdc"/>
+    <file name="iefonts_5w-10-30vdc.css" crc="3828219957" ref="5w-10-30vdc"/>
+    <file name="our-facility---production.css" crc="3994055731" ref="our-facility---production"/>
+    <file name="iefonts_our-facility---production.css" crc="3989066375" ref="our-facility---production"/>
+    <file name="7w-10-30vdc.css" crc="328689723" ref="7w-10-30vdc"/>
+    <file name="iefonts_7w-10-30vdc.css" crc="4127560609" ref="7w-10-30vdc"/>
+    <file name="index.css" crc="512850783" ref="index"/>
+    <file name="iefonts_index.css" crc="3874287477" ref="index"/>
+    <file name="our-locations.css" crc="359359894" ref="our-locations"/>
+    <file name="iefonts_our-locations.css" crc="3983840974" ref="our-locations"/>
+    <file name="r-d.css" crc="4211565464" ref="r-d"/>
+    <file name="iefonts_r-d.css" crc="4211914830" ref="r-d"/>
+    <file name="corporate-profile.css" crc="4058188732" ref="corporate-profile"/>
+    <file name="iefonts_corporate-profile.css" crc="440840603" ref="corporate-profile"/>
+    <file name="pcba.css" crc="83393212" ref="pcba"/>
+    <file name="iefonts_pcba.css" crc="176190470" ref="pcba"/>
+    <file name="7w-6vdc.css" crc="3815148819" ref="7w-6vdc"/>
+    <file name="iefonts_7w-6vdc.css" crc="4241881454" ref="7w-6vdc"/>
+  </folder>
+  <folder name="assets">
+    <file name="5w_6vdc_spec_sheet.pdf" crc="3958688083" seo="true" mt="1518316275000"/>
+    <file name="5w_6vdc_toshiba_photometric_report.pdf" crc="4046080971" seo="true" mt="1518311804000"/>
+    <file name="5w_10_30vdc_spec_sheet.pdf" crc="255700676" seo="true" mt="1518317765000"/>
+    <file name="5w_10_30vdc_photomertic_report.pdf" crc="257968766" seo="true" mt="1518318146000"/>
+    <file name="7w_10_30vdc_photometric_report.pdf" crc="4029402990" seo="true" mt="1518320035000"/>
+    <file name="7w_10_30vdc_spec_sheet.pdf" crc="236078775" seo="true" mt="1518320491000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact-us:corporate-profile:r-d:our-locations:mr16:pcba:leds-and-drivers:our-facility---production:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc"/>
+    <file name="museutils.js" crc="3803043152" ref="index:contact-us:corporate-profile:r-d:our-locations:mr16:pcba:leds-and-drivers:our-facility---production:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact-us:corporate-profile:r-d:our-locations:mr16:pcba:leds-and-drivers:our-facility---production:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:contact-us:corporate-profile:r-d:our-locations:mr16:pcba:leds-and-drivers:our-facility---production:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:contact-us:corporate-profile:r-d:our-locations:mr16:pcba:leds-and-drivers:our-facility---production:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:contact-us:corporate-profile:r-d:our-locations:mr16:pcba:leds-and-drivers:our-facility---production:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc"/>
+    <file name="webpro.js" crc="242022427" ref="index:contact-us:corporate-profile:r-d:our-locations:mr16:pcba:leds-and-drivers:our-facility---production:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:contact-us:corporate-profile:r-d:our-locations:mr16:pcba:leds-and-drivers:our-facility---production:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:contact-us:corporate-profile:r-d:our-locations:mr16:pcba:leds-and-drivers:our-facility---production:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:contact-us:corporate-profile:r-d:our-locations:mr16:pcba:leds-and-drivers:our-facility---production:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc"/>
+    <file name="require.js" crc="4157109226" ref="index:contact-us:corporate-profile:r-d:our-locations:mr16:pcba:leds-and-drivers:our-facility---production:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc"/>
+    <file name="form_check.php" crc="147359589" ref="contact-us"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact-us"/>
+    <file name="form_process.php" crc="3851993751" ref="contact-us"/>
+    <file name="form-u9973.php" crc="3924151287" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="mr161-min (1).png" crc="4263880907" ref="index:our-facility---production">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="advancetechlogo2.png" crc="240980659" seo="true" ref="index:contact-us:corporate-profile:r-d:our-locations:mr16:pcba:leds-and-drivers:our-facility---production:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc">
+      <caption webpage="5w-6vdc" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="our-locations" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="7w-10-30vdc" alt=""/>
+      <caption webpage="r-d" alt=""/>
+      <caption webpage="our-facility---production" alt=""/>
+      <caption webpage="7w-6vdc" alt=""/>
+      <caption webpage="mr16" alt=""/>
+      <caption webpage="corporate-profile" alt=""/>
+      <caption webpage="5w-10-30vdc" alt=""/>
+      <caption webpage="pcba" alt=""/>
+      <caption webpage="leds-and-drivers" alt=""/>
+    </file>
+    <file name="nebulaicon.png" crc="502886246" ref="index:contact-us:mr16">
+      <caption webpage="index" alt=""/>
+      <caption webpage="mr16" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="nebulaicon2.png" crc="4085728481" seo="true" ref="index:contact-us:corporate-profile:r-d:our-locations:mr16:pcba:leds-and-drivers:our-facility---production:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc">
+      <caption webpage="5w-6vdc" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="our-locations" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="7w-10-30vdc" alt=""/>
+      <caption webpage="r-d" alt=""/>
+      <caption webpage="our-facility---production" alt=""/>
+      <caption webpage="7w-6vdc" alt=""/>
+      <caption webpage="mr16" alt=""/>
+      <caption webpage="corporate-profile" alt=""/>
+      <caption webpage="5w-10-30vdc" alt=""/>
+      <caption webpage="pcba" alt=""/>
+      <caption webpage="leds-and-drivers" alt=""/>
+    </file>
+    <file name="pcbaicon.png" crc="3874249040" seo="true" ref="index:contact-us:corporate-profile:r-d:our-locations:mr16:pcba:leds-and-drivers:our-facility---production:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc">
+      <caption webpage="5w-6vdc" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="our-locations" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="7w-10-30vdc" alt=""/>
+      <caption webpage="r-d" alt=""/>
+      <caption webpage="our-facility---production" alt=""/>
+      <caption webpage="7w-6vdc" alt=""/>
+      <caption webpage="mr16" alt=""/>
+      <caption webpage="corporate-profile" alt=""/>
+      <caption webpage="5w-10-30vdc" alt=""/>
+      <caption webpage="pcba" alt=""/>
+      <caption webpage="leds-and-drivers" alt=""/>
+    </file>
+    <file name="ledstripicon.png" crc="86923815" seo="true" ref="index:contact-us:corporate-profile:r-d:our-locations:mr16:pcba:leds-and-drivers:our-facility---production:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc">
+      <caption webpage="5w-6vdc" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="our-locations" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="7w-10-30vdc" alt=""/>
+      <caption webpage="r-d" alt=""/>
+      <caption webpage="our-facility---production" alt=""/>
+      <caption webpage="7w-6vdc" alt=""/>
+      <caption webpage="mr16" alt=""/>
+      <caption webpage="corporate-profile" alt=""/>
+      <caption webpage="5w-10-30vdc" alt=""/>
+      <caption webpage="pcba" alt=""/>
+      <caption webpage="leds-and-drivers" alt=""/>
+    </file>
+    <file name="u2994-4.png" crc="4105390256" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:mr16:our-facility---production:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc"/>
+    <file name="leddriver1-min.png" crc="3882108072" ref="index:corporate-profile">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6268-4.png" crc="4117986470" ref="index"/>
+    <file name="ledstrip5edit-min.png" crc="4003217488" ref="index:our-locations">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u6277-4.png" crc="147505569" ref="index"/>
+    <file name="advancetechlogo4.png" crc="3908296747" seo="true" ref="index:contact-us:corporate-profile:r-d:our-locations:mr16:pcba:leds-and-drivers:our-facility---production:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc">
+      <caption webpage="5w-6vdc" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="our-locations" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="7w-10-30vdc" alt=""/>
+      <caption webpage="r-d" alt=""/>
+      <caption webpage="our-facility---production" alt=""/>
+      <caption webpage="7w-6vdc" alt=""/>
+      <caption webpage="mr16" alt=""/>
+      <caption webpage="corporate-profile" alt=""/>
+      <caption webpage="5w-10-30vdc" alt=""/>
+      <caption webpage="pcba" alt=""/>
+      <caption webpage="leds-and-drivers" alt=""/>
+    </file>
+    <file name="facebookiconnormal.png" crc="327874718" ref="index:contact-us:mr16">
+      <caption webpage="index" alt=""/>
+      <caption webpage="mr16" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="facebookiconhover.png" crc="4185593673" ref="index:contact-us:mr16">
+      <caption webpage="index" alt=""/>
+      <caption webpage="mr16" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="googleplusnormal.png" crc="4253349142" ref="index:contact-us:mr16">
+      <caption webpage="index" alt=""/>
+      <caption webpage="mr16" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="googleplushover.png" crc="3938546111" ref="index:contact-us:mr16">
+      <caption webpage="index" alt=""/>
+      <caption webpage="mr16" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="linkediniconnormal.png" crc="3999627153" ref="index:contact-us:mr16">
+      <caption webpage="index" alt=""/>
+      <caption webpage="mr16" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="linkediniconrollover.png" crc="378923132" ref="index:contact-us:mr16">
+      <caption webpage="index" alt=""/>
+      <caption webpage="mr16" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="ledstrip1wide.png" crc="4068059837" ref="contact-us:r-d">
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="r-d" alt=""/>
+    </file>
+    <file name="arrow.png" crc="332420874" seo="true" ref="r-d">
+      <caption webpage="r-d" alt=""/>
+    </file>
+    <file name="researchndesign.png" crc="55924275" seo="true" ref="r-d">
+      <caption webpage="r-d" alt=""/>
+    </file>
+    <file name="researchanddesign2.png" crc="190539935" seo="true" ref="r-d">
+      <caption webpage="r-d" alt=""/>
+    </file>
+    <file name="mr161-min (1)2.png" crc="518507878" ref="mr16:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc">
+      <caption webpage="mr16" alt=""/>
+    </file>
+    <file name="whiteline.png" crc="301283433" seo="true" ref="mr16:pcba:leds-and-drivers:5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc">
+      <caption webpage="5w-6vdc" alt=""/>
+      <caption webpage="7w-10-30vdc" alt=""/>
+      <caption webpage="5w-10-30vdc" alt=""/>
+      <caption webpage="7w-6vdc" alt=""/>
+      <caption webpage="mr16" alt=""/>
+      <caption webpage="pcba" alt=""/>
+      <caption webpage="leds-and-drivers" alt=""/>
+    </file>
+    <file name="u6288-4.png" crc="4002235747" ref="mr16"/>
+    <file name="mr162.png" crc="524730610" seo="true" ref="mr16">
+      <caption webpage="mr16" alt=""/>
+    </file>
+    <file name="leddriver1big.jpg" crc="247498816" ref="pcba">
+      <caption webpage="pcba" alt=""/>
+    </file>
+    <file name="u11889-4.png" crc="257031401" ref="pcba"/>
+    <file name="linecontrollerpcba.png" crc="4245595164" seo="true" ref="pcba">
+      <caption webpage="pcba" alt=""/>
+    </file>
+    <file name="soymilkmakerpcba.png" crc="4047663240" seo="true" ref="pcba">
+      <caption webpage="pcba" alt=""/>
+    </file>
+    <file name="airpurifierpcba.png" crc="4249484309" seo="true" ref="pcba">
+      <caption webpage="pcba" alt=""/>
+    </file>
+    <file name="rechargablevacuumcleaner.png" crc="4136753744" seo="true" ref="pcba">
+      <caption webpage="pcba" alt=""/>
+    </file>
+    <file name="ledstrip5lighter.png" crc="3835686989" ref="leds-and-drivers">
+      <caption webpage="leds-and-drivers" alt=""/>
+    </file>
+    <file name="u11938-4.png" crc="4002668687" ref="leds-and-drivers"/>
+    <file name="ledstripfeathered.png" crc="4267918375" seo="true" ref="leds-and-drivers">
+      <caption webpage="leds-and-drivers" alt=""/>
+    </file>
+    <file name="ledstriptable.png" crc="4032058737" seo="true" ref="leds-and-drivers">
+      <caption webpage="leds-and-drivers" alt=""/>
+    </file>
+    <file name="arrow3.png" crc="36915823" ref="our-facility---production">
+      <caption webpage="our-facility---production" alt=""/>
+    </file>
+    <file name="ourfacilityproduction1-crop-u12850.jpg" crc="4091594992" seo="true" ref="our-facility---production">
+      <caption webpage="our-facility---production" alt=""/>
+    </file>
+    <file name="ourfacilityproduction2-crop-u12870.jpg" crc="193886186" seo="true" ref="our-facility---production">
+      <caption webpage="our-facility---production" alt=""/>
+    </file>
+    <file name="ourfacilityproduction3.png" crc="3850251795" seo="true" ref="our-facility---production">
+      <caption webpage="our-facility---production" alt=""/>
+    </file>
+    <file name="ourfacilityproduction4-crop-u12910.png" crc="3822922519" seo="true" ref="our-facility---production">
+      <caption webpage="our-facility---production" alt=""/>
+    </file>
+    <file name="ourfacilityproduction1-crop-u12856.jpg" crc="417590" seo="true" ref="our-facility---production">
+      <caption webpage="our-facility---production" alt=""/>
+    </file>
+    <file name="ourfacilityproduction2-crop-u12876.jpg" crc="154533922" seo="true" ref="our-facility---production">
+      <caption webpage="our-facility---production" alt=""/>
+    </file>
+    <file name="ourfacilityproduction3-crop-u12896.png" crc="3863109499" seo="true" ref="our-facility---production">
+      <caption webpage="our-facility---production" alt=""/>
+    </file>
+    <file name="ourfacilityproduction4-crop-u12916.png" crc="66833829" seo="true" ref="our-facility---production">
+      <caption webpage="our-facility---production" alt=""/>
+    </file>
+    <file name="arrow-u12330-3-fr.png" crc="3882519122" ref="our-facility---production"/>
+    <file name="loading.gif" crc="3815509949" ref="our-facility---production"/>
+    <file name="u10307-4.png" crc="4002235747" ref="5w-6vdc"/>
+    <file name="6vdc_diagram_blue.png" crc="62301044" seo="true" ref="5w-6vdc:7w-6vdc">
+      <caption webpage="5w-6vdc" alt=""/>
+      <caption webpage="7w-6vdc" alt=""/>
+    </file>
+    <file name="irradiationanglediagram.png" crc="171709848" seo="true" ref="5w-6vdc:5w-10-30vdc:7w-6vdc:7w-10-30vdc">
+      <caption webpage="5w-6vdc" alt=""/>
+      <caption webpage="7w-10-30vdc" alt=""/>
+      <caption webpage="5w-10-30vdc" alt=""/>
+      <caption webpage="7w-6vdc" alt=""/>
+    </file>
+    <file name="5w6vdc-lidd.png" crc="3890168411" seo="true" ref="5w-6vdc">
+      <caption webpage="5w-6vdc" alt=""/>
+    </file>
+    <file name="5w6vdc-pid.png" crc="277859" seo="true" ref="5w-6vdc">
+      <caption webpage="5w-6vdc" alt=""/>
+    </file>
+    <file name="u10448-4.png" crc="4002235747" ref="5w-10-30vdc"/>
+    <file name="10-30vdc_diagram_blue.png" crc="3794465726" seo="true" ref="5w-10-30vdc:7w-10-30vdc">
+      <caption webpage="7w-10-30vdc" alt=""/>
+      <caption webpage="5w-10-30vdc" alt=""/>
+    </file>
+    <file name="5w-10-30vdc-lidd.png" crc="4076354626" seo="true" ref="5w-10-30vdc">
+      <caption webpage="5w-10-30vdc" alt=""/>
+    </file>
+    <file name="5w-10-30vdc-pid.png" crc="310639600" seo="true" ref="5w-10-30vdc">
+      <caption webpage="5w-10-30vdc" alt=""/>
+    </file>
+    <file name="u10512-4.png" crc="129357051" ref="7w-6vdc"/>
+    <file name="u10537-4.png" crc="129357051" ref="7w-10-30vdc"/>
+    <file name="7w-10-30vdc-lidd.png" crc="3990838738" seo="true" ref="7w-10-30vdc">
+      <caption webpage="7w-10-30vdc" alt=""/>
+    </file>
+    <file name="7w-10-30vdc-pid.png" crc="13104159" seo="true" ref="7w-10-30vdc">
+      <caption webpage="7w-10-30vdc" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="126721888" seo="true" mt="1519015396471" redirect="true"/>
+  <file name="contact-us.html" crc="4160026021" seo="true" mt="1519015454549" redirect="true"/>
+  <file name="corporate-profile.html" crc="416939092" seo="true" mt="1519015396475" redirect="true"/>
+  <file name="r-d.html" crc="4061595704" seo="true" mt="1519015396475" redirect="true"/>
+  <file name="our-locations.html" crc="4272818860" seo="true" mt="1519015396475" redirect="true"/>
+  <file name="mr16.html" crc="3888463173" seo="true" mt="1519015396473" redirect="true"/>
+  <file name="pcba.html" crc="4246451287" seo="true" mt="1519015396473" redirect="true"/>
+  <file name="leds-and-drivers.html" crc="3799582426" seo="true" mt="1519015396473" redirect="true"/>
+  <file name="our-facility---production.html" crc="144080714" seo="true" mt="1519015396475" redirect="true"/>
+  <file name="5w-6vdc.html" crc="168542375" seo="true" mt="1519015396473" redirect="true"/>
+  <file name="5w-10-30vdc.html" crc="3873477561" seo="true" mt="1519015396473" redirect="true"/>
+  <file name="7w-6vdc.html" crc="60086370" seo="true" mt="1519015396473" redirect="true"/>
+  <file name="7w-10-30vdc.html" crc="3937858172" seo="true" mt="1519015396473" redirect="true"/>
+</manifest>
